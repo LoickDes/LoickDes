@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Loïck Desbuleux an apprentice web developer from France</h1>
+<h1 align="center">Hi👋, I'm Loïck Desbuleux an apprentice web developer from France</h1>
 
 ###
 
